@@ -5,8 +5,8 @@ public class Fancy {
        int a;
        int b;
         Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
-        System.out.println(n);
+        int input=sc.nextInt();
+        System.out.println(input);
 
     }
 }
